@@ -6,3 +6,5 @@ User is able to search phone number by Company name.
 
 User is able to save your favorite number and navigator in Apple map.
 
+We will not collect your call record. For more details of privacy policy, refer to [our privacy policy](privacy)
+
