@@ -1,14 +1,8 @@
-## Welcome to Singapore Hawker delivery system
+## Welcome to Singapore CallerID
 
-This system is to help user find nearby hawker center and place order.
+This database contains more than 60,000 Singapore phone numbers.
 
-Select your food from menu, and decide the delivery fee you want to pay. 
+User is able to search phone number by Company name.
 
-After place the order, your order will be seen by nearby riders for 15 minitues. At this moment, your phone number and unit number are invisible to riders till one rider pick your order.
-
-If any rider pick your order, he will be able to see your number and unit, he will head to hawker and order food for you and delivery the food to your doorstep.
-
-You pay the amout of food + delivery fee to rider. 
-
-Order complete.
+User is able to save your favorite number and navigator in Apple map.
 
